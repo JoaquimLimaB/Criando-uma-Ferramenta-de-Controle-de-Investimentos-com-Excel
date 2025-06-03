@@ -1,26 +1,18 @@
 Documentação do Projeto: Análise de Perfis de Investimento em FIIs
-
-Introdução
-
+Introdução:
 Este documento detalha a estrutura de alocação de Fundos de Investimento Imobiliário (FIIs) para diferentes perfis de investidor, com base nos dados fornecidos no arquivo projeto_DIO.xlsx. A análise concentra-se na planilha 'Plan2' do referido arquivo, que contém informações sobre a distribuição percentual de diversos tipos de FIIs para os perfis Conservador, Moderado e Agressivo. O objetivo desta documentação é apresentar de forma clara e organizada como cada perfil distribui seus investimentos entre as categorias de FIIs especificadas.
 
-Análise dos Perfis de Investidor e Alocação em FIIs
-
+Análise dos Perfis de Investidor e Alocação em FIIs:
 Os dados extraídos revelam três perfis distintos de investidores: Conservador, Moderado e Agressivo. Cada perfil possui uma estratégia de alocação específica entre seis tipos de Fundos de Investimento Imobiliário: Papel, Tijolo, Híbridos, FOFs (Fundos de Fundos), Desenvolvimento e Hotelarias. A seguir, detalhamos a composição da carteira para cada um desses perfis.
 
-Perfil Conservador
-
+Perfil Conservador:
 O perfil Conservador demonstra uma preferência significativa por FIIs considerados de menor risco relativo dentro do universo imobiliário. A maior parte da alocação, correspondendo a 50%, está direcionada para FIIs do tipo Tijolo, que investem diretamente em imóveis físicos, geralmente para locação, como lajes corporativas, galpões logísticos e shoppings. Em seguida, os FIIs de Papel, que investem em títulos de dívida imobiliária (como CRIs), representam 30% da carteira deste perfil. FIIs Híbridos, que mesclam características de Tijolo e Papel, e FOFs, que investem em cotas de outros FIIs, compõem 10% cada. Notavelmente, não há alocação (0%) em FIIs de Desenvolvimento, que investem em projetos imobiliários em construção, e FIIs de Hotelarias, ambos geralmente associados a um maior nível de risco ou volatilidade.
 
-Perfil Moderado
-
+Perfil Moderado:
 O perfil Moderado apresenta uma distribuição mais equilibrada entre os diferentes tipos de FIIs, buscando um balanço entre segurança e potencial de retorno. A alocação em FIIs de Tijolo ainda é relevante, com 35%, seguida de perto pelos FIIs de Papel, com 32%. Este perfil demonstra uma maior disposição a diversificar em categorias com potencial de crescimento ou risco ligeiramente maior comparado ao Conservador. FIIs de Desenvolvimento e Hotelarias recebem 10% cada um, indicando uma busca por oportunidades nesses segmentos. FIIs Híbridos compõem 8% da carteira, enquanto os FOFs representam 5%, sugerindo uma menor ênfase em fundos de fundos para este perfil.
 
-Perfil Agressivo
-
+Perfil Agressivo:
 O perfil Agressivo, como esperado, concentra uma parcela maior de seus investimentos em categorias com maior potencial de retorno, aceitando um nível de risco mais elevado. Surpreendentemente, a maior alocação deste perfil está em FIIs de Papel, com 50%, o que pode indicar uma estratégia específica de busca por rendimentos elevados através de títulos de crédito imobiliário, que podem ter diferentes níveis de risco. A alocação em FIIs de Desenvolvimento é significativa, com 20%, refletindo a aposta no potencial de valorização de projetos em construção. FIIs de Tijolo, Híbridos, FOFs e Hotelarias recebem alocações menores, sendo 10% para Tijolo, 5% para Híbridos, 5% para FOFs e 10% para Hotelarias. Essa distribuição sugere uma estratégia focada em rendimentos de crédito e ganhos de capital com desenvolvimento, complementada por outras categorias.
 
-Conclusão
-
+Conclusão:
 A análise dos dados do arquivo projeto_DIO.xlsx permitiu mapear as estratégias de alocação em Fundos de Investimento Imobiliário para os perfis Conservador, Moderado e Agressivo. Cada perfil exibe uma distribuição percentual distinta entre FIIs de Papel, Tijolo, Híbridos, FOFs, Desenvolvimento e Hotelarias, refletindo diferentes apetites a risco e objetivos de investimento. O perfil Conservador prioriza Tijolo e Papel, o Moderado busca equilíbrio com maior diversificação, e o Agressivo foca em Papel e Desenvolvimento. Esta documentação serve como um registro detalhado dessas alocações, fornecendo uma visão clara da composição das carteiras sugeridas para cada perfil.
-
